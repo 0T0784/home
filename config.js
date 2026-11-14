@@ -20,7 +20,7 @@ const SITE = {
 
   works: [                              // 作品・活動のカード（url が空なら押せないカードになる）
     {
-      title: "牛屎院風土記 ～ Unknown Chronicles of Hidden Land",
+      title: "牛屎院風土記 ～ Unknown Chronicles of Hidden Land.",
       desc: "東方Projectの二次創作を含む、2枚組のオリジナルサウンドトラック。",
       url: "",                          // 作品ページのURL（home.html を置いたサイト）
       img: "images/works/soundtrack.jpg",   // 16:9で表示される
