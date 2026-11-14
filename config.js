@@ -2,7 +2,7 @@
 const SITE = {
   name: "オト",                         // 名前
   circle: "オトヒバ",                   // サークル名（トップの大きい文字にも使う）
-  tagline: "知る人ぞ知る、ほどにも知られていないクリエイター",   // トップの一言
+  tagline: "無名のゆっくり実況者が主宰する個人サークルです",   // トップの一言
   logo: "images/logo.png",              // ヘッダーのロゴ画像（無ければ名前の文字が出る）
   icon: "images/icon.png",              // 「私について」のアイコン（無ければ頭文字の丸）
 
@@ -10,11 +10,11 @@ const SITE = {
   latest: 3,                            // 雑記に出す最新記事の数
 
   about: {
-    lead: "自己紹介をここに書いてください。",
+    lead: "知る人ぞ知る、ほどにも知られていないクリエイター",
     items: [                            // [項目, 内容] を好きなだけ
       ["名前", "オト（0to784）"],
       ["サークル", "オトヒバ"],
-      ["活動", "作曲・プログラミング"]
+      ["活動", "作曲・プログラミングetc…"]
     ]
   },
 
@@ -30,9 +30,9 @@ const SITE = {
   ],
 
   links: [                              // リンク集（url が空なら出ない）
-    { label: "X (Twitter)", url: "" },
-    { label: "YouTube",     url: "" },
-    { label: "GitHub",      url: "" }
+    { label: "X (Twitter)", url: "https://x.com/0to784" },
+    { label: "YouTube",     url: "https://m.youtube.com/@0to784" },
+    { label: "Mail",      url: "" }
   ],
 
   notice: "一部作品は東方Projectの二次創作です。無断転載はご遠慮ください。"
