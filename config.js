@@ -4,7 +4,7 @@ const SITE = {
   circle: "オトヒバ",                   // サークル名（トップの大きい文字にも使う）
   tagline: "無名のゆっくり実況者が主宰する個人サークルです",   // トップの一言
   logo: "images/logo.png",              // ヘッダーのロゴ画像（無ければ名前の文字が出る）
-  icon: "images/icon.png",              // 「私について」のアイコン（無ければ頭文字の丸）
+  icon: "images/0to784.png",              // 「私について」のアイコン（無ければ頭文字の丸）
 
   blog: "https://0t0784.github.io/blog/",                             // ブログのURL 例: "https://ユーザー名.github.io/ブログのリポジトリ名/"（空なら雑記の欄は出ない）
   latest: 3,                            // 雑記に出す最新記事の数
